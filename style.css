@@ -386,6 +386,7 @@ p{
 }
 
 #prop{
+    color: lightblue;
     width: 55vh;
     position: fixed;
     margin-top: 17.5vh;
